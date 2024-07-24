@@ -13,7 +13,7 @@ Branch: Különböző fejlesztési ágak létrehozása és kezelése.
 Merge: Az ágak egyesítése.
 Pull és Push: Változtatások szinkronizálása a távoli és helyi repozitóriumok között.
 Clone: Egy távoli repozitórium másolatának létrehozása a helyi gépen.
-Előnyök
+:)
 Verziókövetés: Nyomon követi minden egyes módosítást, lehetővé téve a fejlesztők számára, hogy visszaállítsák a korábbi verziókat.
 Együttműködés: Könnyen lehetővé teszi több fejlesztő egyidejű munkáját ugyanazon a projekten.
 Biztonságos mentés: Minden fejlesztő teljes repozitóriummal rendelkezik, így az adatok elvesztésének kockázata minimális.
